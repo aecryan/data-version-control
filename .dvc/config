@@ -1,6 +1,12 @@
 [core]
+<<<<<<< HEAD
     remote = remote-2
 ['remote "remote_storage"']
     url = /Users/acryan/surfdrive/surf_remote
 ['remote "remote-2"']
     url = https://surfdrive.surf.nl/files/index.php/apps/files/?dir=/Shared/surf_remote
+=======
+    remote = myremote
+['remote "myremote"']
+    url = https://surfdrive.surf.nl/files/index.php/apps/files/?dir=/surf_remote
+>>>>>>> 46a010764bbe4e6ed702bc92a118a4aca5d00e28
